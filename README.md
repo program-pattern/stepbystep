@@ -122,7 +122,7 @@
     </tr>
     <tr>
         <td>xUnit单元测试</td>
-        <td>4h</td>
+        <td>8h</td>
         <td>Y</td>
         <td> </td>
         <td>Y</td>
